@@ -11,4 +11,4 @@ You can view our delicious menus, and weekly specials, reserve a table, and orde
 - Usability and accessibility evaluations (UX)
 - Form validation, querying APIs, and Unit tests
 
-##Live Demo: https://little-lemon-moin.netlify.app/
+##Live Demo: https://project-little-lemon.netlify.app/
